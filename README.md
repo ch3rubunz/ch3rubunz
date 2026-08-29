@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1ST PIC: TOP BOWL/RIBBON LACE -->
-<img width="736" height="209" alt="Image" src="https://github.com/user-attachments/assets/fed8937f-0827-4e9f-9de5-9934e117631f" />
+<img width="736" height="209" alt="Image" src="https://github.com/user-attachments/assets/49a0b803-f4ab-4d4d-8f8a-5a0d36f26c18" />
 <br>
 
 <!-- GLOWING PINK TITLE -->
