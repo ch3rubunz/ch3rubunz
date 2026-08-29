@@ -22,12 +22,12 @@ $$\color{#FFB6C1}{\Large\mathcal{── .✦\ 𝒆𝒊𝒌𝒐\ .ᐟ💤}}$$
 
 <br>
 
-<!-- ABOUT ME DROP-DOWN -->
+<!-- ABOUT ME DROP-DOWN (LIGHTEST PINK VIA MATH COMMAND) -->
 <details>
-<summary><b> ` 𝙘𝙝3𝙧𝙪𝙙𝙪𝙣𝙯𝙨 `! ‹𝟹</b></summary>
+<summary>$$\color{#FFE3E8}{\text{✨\ 𝙘𝙝3𝙧𝙪𝙗𝙪𝙣𝙯𝙨\ !\ ‹𝟹\ ✨}}$$</summary>
 <p align="center">
 <br>
-<i>“ i love pink n blue !! other pastel colors as well, im very friendly and i love my friends sosososo much, im active in school and gaming >< ”</i>
+<i><font color="#FFE3E8">i love </font><font color="#FFB6C1">pink</font><font color="#FFE3E8"> n </font><font color="#BCE2FA">blue</font><font color="#FFE3E8"> !! other pastel colors as well, im very friendly and i love my friends sosososo much, im active in school and gaming ><</font></i>
 <br>
 <br>
 🍧 • 🎧 • 🤍 • 💨
@@ -36,30 +36,27 @@ $$\color{#FFB6C1}{\Large\mathcal{── .✦\ 𝒆𝒊𝒌𝒐\ .ᐟ💤}}$$
 
 <br>
 
-<!-- SEPARATE FAV INITIALS DROP-DOWN -->
+<!-- SEPARATE FAV INITIALS DROP-DOWN (MEDIUM PINK VIA MATH COMMAND) -->
 <details>
-<summary><b>  𑣲. 𝓯𝓪𝓿 𝓲𝓷𝓲𝓽𝓲𝓪𝓵𝓼  ! </b></summary>
+<summary>$$\color{#FFB6C1}{\text{🌟\ \ 𑣲.\ 𝓯𝓪𝓿\ 𝓲𝓷𝓲𝓽𝓲𝓪𝓵𝓼\ \ !\ 🌟}}$$</summary>
 <p align="center">
 <br>
-𝔫, 𝔨, 𝔞, 𝔯, 𝔪, 𝔢, 𝔧, 𝔩, 𝔳, ! (｡•ᵕ•｡)♡
+<font color="#FFD3DB"><b>𝔫, 𝔨, 𝔞, 𝔯, 𝔪, 𝔢, 𝔧, 𝔩, 𝔳, ! (｡•ᵕ•｡)♡</b></font>
 </p>
 </details>
 
 <br>
 
-<!-- POLISHED DNI DROP-DOWN -->
+<!-- POLISHED DNI DROP-DOWN (SLIGHTLY DARKER PINK VIA MATH COMMAND) -->
 <details>
-<summary><b> .ᐟ.ᐟ 𝘥𝘯𝘪  . . .</b></summary>
+<summary>$$\color{#FFAEBE}{\text{✦\ .ᐟ.ᐟ\ 𝘥𝘯𝘪\ \ .\ .\ .\ ✦}}$$</summary>
 <p align="center">
 <br>
-<b>🤍 do not interact if:</b>
+<b><font color="#FFC5D3">🤍 do not interact if:</font></b>
 <br>
-<i>copycats, problematic ppl, racists, and homophobics !!</i>
+<i><font color="#FFE3E8">copycats, problematic ppl, racists, and homophobics !!</font></i>
 </p>
 </details>
-
-<br>
-<br>
 
 <!-- PERFECTLY TYPING PINK CURSIVE QUOTE -->
 <img src="https://demolab.com" alt="🪽 “ an angel in the dark, a phantom in the daylight. ”" />
