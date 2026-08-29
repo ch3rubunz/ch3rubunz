@@ -17,7 +17,8 @@ $$\color{#FFB6C1}{\Large\mathcal{── .✦\ 𝒆𝒊𝒌𝒐\ .ᐟ💤}}$$
 <br>
 
 <!-- 2ND PIC: CENTER MAIN CARD BANNER -->
-<img width="735" height="441" alt="Image" src="https://github.com/user-attachments/assets/88b55290-9acc-4031-a73c-e311591b8a68" />
+<img width="735" height="441" alt="Image" src="https://github.com/user-attachments/assets/e24b9f66-c16a-4003-a6d8-39792c9c8d67" />
+
 
 <br>
 
