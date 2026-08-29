@@ -71,7 +71,7 @@ $$\color{#FFB6C1}{\Large\mathcal{── .✦\ 𝒆𝒊𝒌𝒐\ .ᐟ💤}}$$
 <br>
 
 <!-- 3RD PIC: LOWER BORDER LACE -->
-<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/dbe617f5-746d-4ff9-a1c8-c90b8310d3e2" />
+<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/b8c851a0-fef9-451b-929f-b1e123377b4b" />
 
 </div>
 
