@@ -59,15 +59,11 @@ $$\color{#E17FB9}{\text{𝑒𝑖𝑘𝑜\ /\ 𝑒𝑖\ /\ 𝑒𝑖𝑘𝑠\ 🪼
 </p>
 </details>
 
-<!-- PERFECTLY TYPING PINK CURSIVE QUOTE -->
-<img src="https://demolab.com" alt="🪽 “ an angel in the dark, a phantom in the daylight. ”" />
+<!-- FIXED TRUE CURSIVE PINK QUOTE -->
+$$\color{#FF8A9D}{\small\text{🪽\ “\ 𝘢𝘯\ 𝘢𝘯𝘨𝘦𝘭\ 𝘪𝘯\ 𝘵𝘩𝘦\ 𝘥𝘢𝘳𝘬,\ 𝘢\ 𝘱𝘩𝘢𝘯𝘵𝘰𝘮\ 𝘪𝘯\ 𝘵𝘩𝘦\ 𝘥𝘢ｙ𝘭𝑖𝘨𝘩𝑡.\ ”}}$$
 
 <br>
 <br>
-
-<br>
-<br>
-
 <!-- 3RD PIC: LOWER BORDER LACE -->
 <img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/b8c851a0-fef9-451b-929f-b1e123377b4b" />
 
