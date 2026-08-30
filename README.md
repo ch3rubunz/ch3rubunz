@@ -42,7 +42,7 @@ $$\color{#E17FB9}{\text{𝑒𝑖𝑘𝑜\ /\ 𝑒𝑖\ /\ 𝑒𝑖𝑘𝑠\ 🪼
 <summary>$$\color{#FFB6C1}{\text{🌟\ \ 𑣲.\ 𝓯𝓪𝓿\ 𝓲𝓷𝓲𝓽𝓲𝓪𝓵𝓼\ \ !\ 🌟}}$$</summary>
 <p align="center">
 <br>
-<font color="#FFD3DB"><b>𝔫, 𝔨, 𝔞, 𝔯, 𝔪, 𝔢, 𝔧, 𝔩, 𝔳, ! (｡•ᵕ•｡)♡</b></font>
+<font color="#FFD3DB"><b>𝔫, 𝔎, 𝔞, 𝔯, 𝔪, 𝔢, 𝔧, 𝔩, 𝔳, ! (｡•ᵕ•｡)♡</b></font>
 </p>
 </details>
 
