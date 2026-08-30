@@ -60,7 +60,7 @@ $$\color{#E17FB9}{\text{𝑒𝑖𝑘𝑜\ /\ 𝑒𝑖\ /\ 𝑒𝑖𝑘𝑠\ 🪼
 </details>
 
 <details>
-<summary>$$\color{#ff3399}\text{ 𝖕𝖑𝖘 𝖓𝖔𝖙𝖊 ! }$$</summary>
+<summary>$$\color{#D65A79}\text{ 𝖕𝖑𝖘 𝖓𝖔𝖙𝖊 ! }$$</summary>
 
 i love experimenting with my ponies so you will often see me using different styles ponies !!! i do them without references too, so im very sorry if i accidentally copied someone, feel free to tell me ok !! tysm ><
 </details>
