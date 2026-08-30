@@ -59,6 +59,13 @@ $$\color{#E17FB9}{\text{𝑒𝑖𝑘𝑜\ /\ 𝑒𝑖\ /\ 𝑒𝑖𝑘𝑠\ 🪼
 </p>
 </details>
 
+<details>
+<summary>$$\color{#ff3399}\text{ 𝖕𝖑𝖘 𝖓𝖔𝖙𝖊 ! }$$</summary>
+
+i love experimenting with my ponies so you will often see me using different styles ponies !!! i do them without references too, so im very sorry if i accidentally copied someone, feel free to tell me ok !! tysm ><
+</details>
+
+
 <!-- FIXED TRUE CURSIVE PINK QUOTE -->
 $$\color{#FF8A9D}{\small\text{🪽\ “\ 𝘢𝘯\ 𝘢𝘯𝘨𝘦𝘭\ 𝘪𝘯\ 𝘵𝘩𝘦\ 𝘥𝘢𝘳𝘬,\ 𝘢\ 𝘱𝘩𝘢𝘯𝘵𝘰𝘮\ 𝘪𝘯\ 𝘵𝘩𝘦\ 𝘥𝘢ｙ𝘭𝑖𝘨𝘩𝑡.\ ”}}$$
 
