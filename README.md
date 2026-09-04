@@ -67,7 +67,7 @@ i love experimenting with my ponies so you will often see me using different sty
 
 
 <!-- FIXED TRUE CURSIVE PINK QUOTE -->
-$$\color{#FF8A9D}{\small\text{🪽\ “\ 𝘢𝘯\ 𝘢𝘯𝘨𝘦𝘭\ 𝘪𝘯\ 𝘵𝘩𝘦\ 𝘥𝘢𝘳𝘬,\ 𝘢\ 𝘱𝘩𝘢𝘯𝘵𝘰𝘮\ 𝘪𝘯\ 𝘵𝘩𝘦\ 𝘥𝘢ｙ𝘭𝑖𝘨𝘩𝑡.\ ”}}$$
+$$\color{#E663F7}{\small\text{🪽\ “\ 𝘢𝘯\ 𝘢𝘯𝘨𝘦𝘭\ 𝘪𝘯\ 𝘵𝘩𝘦\ 𝘥𝘢𝘳𝘬,\ 𝘢\ 𝘱𝘩𝘢𝘯𝘵𝘰𝘮\ 𝘪𝘯\ 𝘵𝘩𝘦\ 𝘥𝘢ｙ𝘭𝑖𝘨𝘩𝑡.\ ”}}$$
 
 <br>
 
