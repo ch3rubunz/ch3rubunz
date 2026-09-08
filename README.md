@@ -13,7 +13,7 @@ $$\color{#8454E2}{\huge\mathcal{ ˚₊‧\ ℰ𝒾𝓀ℴ\ ‧₊˚}}$$
 
 
 
-![](https://komarev.com/ghpvc/?username=ch3rubunz&abbreviated=true&label=୨୧%20views%20୨୧&color=DC8ED3)
+![](https://komarev.com/ghpvc/?username=ch3rubunz&abbreviated=true&label=୨୧&color=DC8ED3)
 
 <br><br>
  <img width=500 height=200 alt=gif src="https://media1.tenor.com/m/4wgnwIQo3cYAAAAd/cyrene-cyrene-honkai-star-rail.gif" width="300">
@@ -38,8 +38,6 @@ $$\color{#8F9CEB}{\text{𝒊𝒎\ 𝒗𝒆𝒓𝒚\ 𝒇𝒓𝒊𝒆𝒏𝒅𝒍
 $$\color{#8F9CEB}{\text{𝒊𝒎\ 𝒂𝒄𝒕𝒊𝒗𝒆\ 𝒊𝒏\ 𝒔𝒄𝒉𝒐𝒐𝒍\ 𝒂𝒏𝒅\ 𝒈𝒂𝒎𝒊𝒏𝒈\ >\ <}}$$
 
 <br>
-
-$$\color{#8F9CEB}{\text{🍧\ •\ 🎧\ •\ 🤍\ •\ 💨}}$$
 
 </details>
 
