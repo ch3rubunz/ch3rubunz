@@ -1,81 +1,101 @@
 <div align="center">
 
-<!-- 1ST PIC: TOP BOWL/RIBBON LACE -->
-<img width="736" height="209" alt="Image" src="https://github.com/user-attachments/assets/49a0b803-f4ab-4d4d-8f8a-5a0d36f26c18" />
-<br>
-
-<!-- GLOWING PINK TITLE -->
-$$\color{#FFB6C1}{\Large\mathcal{── .✦\ 𝒆𝒊𝒌𝒐\ .ᐟ💤}}$$
-
-<br>
-
-### ✧･ﾟ: \* <font color="#FF8A9D">𝔪𝔢𝔩𝔞𝔫𝔥𝔬𝔩𝔶</font> 🪽
-$$\color{#E17FB9}{\text{𝑒𝑖𝑘𝑜\ /\ 𝑒𝑖\ /\ 𝑒𝑖𝑘𝑠\ 🪼}}$$
-
-
-## 𝟻𝔱𝔢𝔢𝔫 , !? >ᴗ<
-
-<br>
-
-<!-- 2ND PIC: CENTER MAIN CARD BANNER -->
-<img width="735" height="441" alt="Image" src="https://github.com/user-attachments/assets/e24b9f66-c16a-4003-a6d8-39792c9c8d67" />
-
-![](https://komarev.com/ghpvc/?username=ch3rubunz&abbreviated=true&label=(⁠≧⁠▽⁠≦⁠)&color=ff69b4)
-<br>
-
-<!-- ABOUT ME DROP-DOWN (LIGHTEST PINK VIA MATH COMMAND) -->
-<details>
-<summary>$$\color{#FFB5EA}{\text{✨\ 𝙘𝙝3𝙧𝙪𝙗𝙪𝙣𝙯𝙨\ !\ ‹𝟹\ ✨}}$$</summary>
-<p align="center">
-<br>
-<i><font color="#FFE3E8">i love </font><font color="#FFB6C1">pink</font><font color="#FFE3E8">blue</font><font color="#FFE3E8"> !! other pastel colors as well, im very friendly and i love my friends sosososo much, im active in school and gaming ><</font></i>
-<br>
-<br>
-🍧 • 🎧 • 🤍 • 💨
-</p>
-</details>
-
-<br>
-
-<!-- SEPARATE FAV INITIALS DROP-DOWN (MEDIUM PINK VIA MATH COMMAND) -->
-<details>
-<summary>$$\color{#FF8ADE}{\text{🌟\ \ 𑣲.\ 𝓯𝓪𝓿\ 𝓲𝓷𝓲𝓽𝓲𝓪𝓵𝓼\ \ !\ 🌟}}$$</summary>
-<p align="center">
-<br>
-<font color="#FFD3DB"><b>𝔫, 𝔎, 𝔞, 𝔯, 𝔪, 𝔢, 𝔧, 𝔩, 𝔳, ! (｡•ᵕ•｡)♡</b></font>
-</p>
-</details>
-
-<br>
-
-<!-- POLISHED DNI DROP-DOWN (SLIGHTLY DARKER PINK VIA MATH COMMAND) -->
-<details>
-<summary>$$\color{#FF5CD1}{\text{✦\ .ᐟ.ᐟ\ 𝘥𝘯𝘪\ \ .\ .\ .\ ✦}}$$</summary>
-<p align="center">
-<br>
-<b><font color:</font></b>
-<br>
-<i><font color="#FFE3E8">copycats, problematic ppl, racists, and homophobics !!</font></i>
-</p>
-</details>
-
-<details>
-<summary>$$\color{#FF2EC4}\text{ 𝖕𝖑𝖘 𝖓𝖔𝖙𝖊 ! }$$</summary>
-
-i love experimenting with my ponies so you will often see me using different styles ponies !!! i do them without references and purely just out of my ideas, so im very sorry if i accidentally copied someone, feel free to tell me ok !! tysm ><
-</details>
-
-
-<!-- FIXED TRUE CURSIVE PINK QUOTE -->
-$$\color{#E663F7}{\small\text{🪽\ “\ 𝘢𝘯\ 𝘢𝘯𝘨𝘦𝘭\ 𝘪𝘯\ 𝘵𝘩𝘦\ 𝘥𝘢𝘳𝘬,\ 𝘢\ 𝘱𝘩𝘢𝘯𝘵𝘰𝘮\ 𝘪𝘯\ 𝘵𝘩𝘦\ 𝘥𝘢ｙ𝘭𝑖𝘨𝘩𝑡.\ ”}}$$
-
-<br>
-
-
-<br>
-<!-- 3RD PIC: LOWER BORDER LACE -->
-<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/b8c851a0-fef9-451b-929f-b1e123377b4b" />
+$$\color{#8454E2}{\Large\mathcal{ ˚₊‧\ ℰ𝒾𝓀ℴ\ ‧₊˚}}$$
 
 </div>
+
+<img width="736" height="552" alt="Image" src="https://github.com/user-attachments/assets/0a4de2af-95b4-413f-8e2a-7ad28761749e" />
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ch3rubunz&abbreviated=true&label=%20୨୧&color=DC8ED3)
+
+<br>
+
+<img src="GIF_URL_HERE" width="300">
+
+<br><br>
+
+<details>
+<summary>
+
+$$\color{#8454E2}{\text{୨୧\ 𝒂𝒃𝒐𝒖𝒕\ 𝒎𝒆\ ✧}}$$
+
+</summary>
+
+<br>
+
+$$\color{#8F9CEB}{\text{𝒊\ 𝒍𝒐𝒗𝒆\ 𝒑𝒊𝒏𝒌,\ 𝒃𝒍𝒖𝒆,\ 𝒂𝒏𝒅\ 𝒐𝒕𝒉𝒆𝒓\ 𝒑𝒂𝒔𝒕𝒆𝒍\ 𝒄𝒐𝒍𝒐𝒓𝒔\ !!}}$$
+
+<br>
+
+$$\color{#8F9CEB}{\text{𝒊𝒎\ 𝒗𝒆𝒓𝒚\ 𝒇𝒓𝒊𝒆𝒏𝒅𝒍𝒚\ 𝒂𝒏𝒅\ 𝒊\ 𝒍𝒐𝒗𝒆\ 𝒎𝒚\ 𝒇𝒓𝒊𝒆𝒏𝒅𝒔\ 𝒔𝒐𝒔𝒐𝒔𝒐𝒔𝒐\ 𝒎𝒖𝒄𝒉\ !!}}$$
+
+</details>
+
+<br>
+
+<details>
+<summary>
+
+$$\color{#DC8ED3}{\text{୨୧\ 𝒇𝒂𝒗\ 𝒊𝒏𝒊𝒕𝒊𝒂𝒍𝒔\ ✧}}$$
+
+</summary>
+
+<br>
+
+$$\color{#E5EEF8}{\text{𝔫,\ 𝔎,\ 𝔞,\ 𝔯,\ 𝔪,\ 𝔢,\ 𝔧,\ 𝔩,\ 𝔳,\ !\ ♡}}$$
+
+</details>
+
+<br>
+
+<details>
+<summary>
+
+$$\color{#E5EEF8}{\text{୨୧\ 𝒅𝒏𝒊\ ✧}}$$
+
+</summary>
+
+<br>
+
+$$\color{#DC8ED3}{\text{𝒄𝒐𝒑𝒚𝒄𝒂𝒕𝒔,\ 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒂𝒕𝒊𝒄\ 𝒑𝒑𝒍,\ 𝒓𝒂𝒄𝒊𝒔𝒕𝒔,\ 𝒂𝒏𝒅\ 𝒉𝒐𝒎𝒐𝒑𝒉𝒐𝒃𝒊𝒄𝒔\ !!}}$$
+
+</details>
+
+<br>
+
+<details>
+<summary>
+
+$$\color{#8F9CEB}{\text{୨୧\ 𝒑𝒍𝒔\ 𝒏𝒐𝒕𝒆\ ✧}}$$
+
+</summary>
+
+<br>
+
+$$\color{#8454E2}{\text{𝒊\ 𝒍𝒐𝒗𝒆\ 𝒆𝒙𝒑𝒆𝒓𝒊𝒎𝒆𝒏𝒕𝒊𝒏𝒈\ 𝒘𝒊𝒕𝒉\ 𝒎𝒚\ 𝒑𝒐𝒏𝒊𝒆𝒔\ !!}}$$
+
+<br>
+
+$$\color{#8454E2}{\text{𝒚𝒐𝒖𝒍𝒍\ 𝒐𝒇𝒕𝒆𝒏\ 𝒔𝒆𝒆\ 𝒎𝒆\ 𝒖𝒔𝒊𝒏𝒈\ 𝒅𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒕\ 𝒔𝒕𝒚𝒍𝒆𝒔\ 𝒐𝒇\ 𝒑𝒐𝒏𝒊𝒆𝒔\ !!}}$$
+
+<br>
+
+$$\color{#8454E2}{\text{𝒊\ 𝒎𝒂𝒌𝒆\ 𝒕𝒉𝒆𝒎\ 𝒘𝒊𝒕𝒉𝒐𝒖𝒕\ 𝒓𝒆𝒇𝒆𝒓𝒆𝒏𝒄𝒆𝒔\ 𝒂𝒏𝒅\ 𝒑𝒖𝒓𝒆𝒍𝒚\ 𝒇𝒓𝒐𝒎\ 𝒎𝒚\ 𝒐𝒘𝒏\ 𝒊𝒅𝒆𝒂𝒔\ !!}}$$
+
+<br>
+
+$$\color{#8454E2}{\text{𝒊𝒇\ 𝒊\ 𝒂𝒄𝒄𝒊𝒅𝒆𝒏𝒕𝒂𝒍𝒍𝒚\ 𝒄𝒐𝒑𝒊𝒆𝒅\ 𝒔𝒐𝒎𝒆𝒐𝒏𝒆,\ 𝒇𝒆𝒆𝒍\ 𝒇𝒓𝒆𝒆\ 𝒕𝒐\ 𝒕𝒆𝒍𝒍\ 𝒎𝒆\ !!}}$$
+
+<br>
+
+$$\color{#8454E2}{\text{𝒕𝒚𝒔𝒎\ >\ <\ ♡}}$$
+
+</details>
+
+</div><br>
+
+
 
 
