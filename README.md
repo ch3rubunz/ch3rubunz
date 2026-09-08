@@ -12,7 +12,7 @@ $$\color{#8454E2}{\Large\mathcal{ ˚₊‧\ ℰ𝒾𝓀ℴ\ ‧₊˚}}$$
 
 <br>
 
-<img src="GIF_URL_HERE" width="300">
+<img width=500 height=200 alt=gif src="https://media1.tenor.com/m/4wgnwIQo3cYAAAAd/cyrene-cyrene-honkai-star-rail.gif" width="300">
 
 <br><br>
 
