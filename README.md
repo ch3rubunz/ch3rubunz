@@ -1,19 +1,24 @@
 
 <div align="center">
-
+ 
+ 
 $$\color{#8454E2}{\huge\mathcal{ ˚₊‧\ ℰ𝒾𝓀ℴ\ ‧₊˚}}$$
 
 </div>
 
 <img width="736" height="552" alt="Image" src="https://github.com/user-attachments/assets/0a4de2af-95b4-413f-8e2a-7ad28761749e" />
 
-
+$$\color{#DC8ED3}{⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹}$$
 
 <div align="center">
 
 
 
 ![](https://komarev.com/ghpvc/?username=ch3rubunz&abbreviated=true&label=୨୧&color=DC8ED3)
+
+<br> 
+
+
 
 <br><br>
  <img width=500 height=200 alt=gif src="https://media1.tenor.com/m/4wgnwIQo3cYAAAAd/cyrene-cyrene-honkai-star-rail.gif" width="300">
