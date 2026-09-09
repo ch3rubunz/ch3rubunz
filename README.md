@@ -18,7 +18,7 @@ $$\color{#DC8ED3}{⊹₊˚‧︵‿₊⊱·✶·⊰₊‿︵‧˚₊⊹}$$
 
 <br> 
 
-
+$$\color{#DC8DFE}{⊹₊⌒╲‿̩͙╲⊱·✦·⊰╱‿̩͙╱⌒₊⊹}$$
 
 <br><br>
  <img width=500 height=200 alt=gif src="https://media1.tenor.com/m/4wgnwIQo3cYAAAAd/cyrene-cyrene-honkai-star-rail.gif" width="300">
@@ -118,3 +118,5 @@ $$\color{#8454E2}{\text{𝒕𝒚𝒔𝒎\ >\ <\ ♡}}$$
 $$\color{#B8A9E8}{\text{˚₊‧ 𝒃𝒓𝒊𝒈𝒉𝒕𝒆𝒓\ 𝒅𝒂𝒚𝒔\ 𝒂𝒉𝒆𝒂𝒅\ ᶻ\ 𝗓\ 𐰁 ‧₊˚}}$$
 
 </div>
+
+$$\color{#E5EEF8}{────── ꒰ঌ·✦·໒꒱ ──────}$$
