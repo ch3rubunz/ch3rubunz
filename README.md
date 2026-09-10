@@ -117,6 +117,16 @@ $$\color{#8454E2}{\text{𝒕𝒚𝒔𝒎\ >\ <\ ♡}}$$
 $$\color{#B8A9E8}{\text{˚₊‧ 𝒃𝒓𝒊𝒈𝒉𝒕𝒆𝒓\ 𝒅𝒂𝒚𝒔\ 𝒂𝒉𝒆𝒂𝒅\ ᶻ\ 𝗓\ 𐰁 ‧₊˚}}$$
 
 </div>
+<br>
 
+<p align="center">
+
+[𝕹](https://github.com/MOON-WALKR) ── [𝕹](https://github.com/Verityyys) ── [𝕶](https://github.com/4lamort) ── [𝕬](https://github.com/BALDURSGATE-3)
+
+<br>
+
+$$\color{#DC8ED3}{\text{𝒇𝒐𝒍𝒍𝒐𝒘\ 𝒕𝒉𝒆𝒎\ !\ ♡}}$$
+
+</p>
 
 $$\color{#E5EEF8}{────── ꒰ঌ·✦·໒꒱ ──────}$$
